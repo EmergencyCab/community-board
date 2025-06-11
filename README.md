@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 
 - [x] Buttons or links to related resources are on each card component
   - [x] All cards have clickable links to vendor websites
-- [] The site is responsive for both desktop and mobile formats
-  - [] Web app displays correctly on different screen sizes
+-  The site is responsive for both desktop and mobile formats
+  -  Web app displays correctly on different screen sizes
 
 The following **additional** features are implemented:
 
@@ -34,14 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/codepath-assingment-1-VG8ANER' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/codepath-assingment-1-VG8ANER' title='Video Walkthrough' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap and Imgur.  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with LiceCap and uploaded to Imgur.
 
 ## Notes
 
