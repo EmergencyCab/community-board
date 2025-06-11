@@ -4,11 +4,12 @@ import Card from "./components/Card";
 function App() {
   return (
     <div className="App">
-      <h1>Food Truck Favorites 🍔</h1>
-      <h2>Explore local cuisines from around the world!</h2>
+      <img src="src/Images/Banner1.jpg" className="banner" />
+
+      <h1>Flavors Without Borders 🌎</h1>
+      <h2>Explore cuisines from around the world!</h2>
 
       <div className="card-grid">
-        {/* Cards will go here */}
         <Card
           name="Birria-Landia"
           cuisine="Mexican"
