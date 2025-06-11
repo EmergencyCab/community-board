@@ -21,8 +21,8 @@ The following **optional** features are implemented:
 
 - [x] Buttons or links to related resources are on each card component
   - [x] All cards have clickable links to vendor websites
--  The site is responsive for both desktop and mobile formats
-  -  Web app displays correctly on different screen sizes
+- [ ] The site is responsive for both desktop and mobile formats
+  - [ ] Web app displays correctly on different screen sizes
 
 The following **additional** features are implemented:
 
